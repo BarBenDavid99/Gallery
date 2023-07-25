@@ -1,0 +1,3 @@
+This Gallery code shows images that change every so often. The images are divided by classes using OOP. The user also has arrows to move to the previous / next image. So that there is no confusion or discomfort in the user's eye when changing the images, there is a function that causes them to change together only. In this specific gallery I used pictures of the national champion who I happen to be a fan of.
+
+built with html, css,js and oop.
